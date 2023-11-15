@@ -1,0 +1,28 @@
+{
+  "name": "iterator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "npx tsc && node dist/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsboost/iterator.git"
+  },
+  "keywords": [
+    "iterator",
+    "js"
+  ],
+  "author": "foxsir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsboost/iterator/issues"
+  },
+  "homepage": "https://github.com/jsboost/iterator#readme",
+  "devDependencies": {
+    "gts": "^5.2.0",
+    "typescript": "^5.2.2"
+  }
+}
